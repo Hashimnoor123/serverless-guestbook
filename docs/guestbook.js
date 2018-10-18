@@ -1,7 +1,7 @@
 /**
  * Web application
  */
-const apiUrl = 'https://openwhisk.eu-gb.bluemix.net/api/v1/namespaces/b00051818%40aus.edu_dev/actions/save-guestbook-entry-sequence';
+const apiUrl = 'https://service.eu.apiconnect.ibmcloud.com/gws/apigateway/api/6a29d31f87622e00edae65a43785c704d841c75cca9595a186b68b6fb62d6949/adcefbb7-0ae7-418e-8636-95a276204722';
 const guestbook = {
   // retrieve the existing guestbook entries
   get() {
